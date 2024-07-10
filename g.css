@@ -1,0 +1,40 @@
+
+h1{ text-align: center;}
+html{background-color:  #ffd400;}
+a:link{
+  background-color: yellow;
+  color: white;
+  text-decoration: none;
+  border: solid 1px black;
+  padding: 10px 20px;
+  width: 100px;
+  box-sizing: border-box;
+  border-radius: 20px;
+}
+hr{
+color: white;}
+  img{width: 300px;}
+  
+
+#h{
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#h td, #h th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#h tr:nth-child(even){background-color: #f2f2f2;}
+
+#h tr:hover {background-color: #ddd;}
+
+#h th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color:white;
+  color: black;
+}
